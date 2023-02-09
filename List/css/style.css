@@ -1,0 +1,54 @@
+body{ 
+    margin: auto;
+    padding: auto;
+    position: relative;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Bradley Hand, cursive;
+}
+section{
+    margin: auto;
+    color: #ababab;
+    text-align: center;
+}
+section h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+form{
+    list-style: none;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 20px;
+}
+form p{
+    text-align: justify;
+}
+label{
+    display: inline-block;
+}
+input{
+    background-color: #44444447;
+    color: white;
+}
+footer{
+    background-color: rgba(253, 253, 253, 0.206);
+    text-align: center;
+}
+footer p{
+    color: white;
+    margin: 5px;
+}
+nav#footer{
+    display: block;
+}
+nav#footer ul{
+display: inline-block;
+}
+nav#footer li{
+    display: inline-block;
+}
+a{
+    color: white;
+}
